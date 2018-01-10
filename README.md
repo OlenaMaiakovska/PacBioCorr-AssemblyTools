@@ -16,4 +16,4 @@ correct long reads. The second strategy consists in aligning long reads against 
 
 
 [Laurent Bouri, Dominique Lavenier. Evaluation of long read error correction software. [Research
-Report] RR-9028, INRIA Rennes - Bretagne Atlantique; GenScale. 2017. <hal-01463694>
+Report] RR-9028, INRIA Rennes - Bretagne Atlantique; GenScale. 2017. <hal-01463694>]
