@@ -8,7 +8,8 @@ more contiguous reconstruction of the genome. However, long reads have raw error
 from 10% to 15%, requiring a preliminary stage of correction before the assembly process.
 
 The available correction software are mainly based on two strategies :
-	• hybrid correction (both long reads and short reads are required) ;
-	• denovo correction (only long reads are required) ;
+	
+	hybrid correction (both long reads and short reads are required) ;
+	denovo correction (only long reads are required) ;
 Hybrid correction uses short reads, such as Illumina, which have a much lower error rate, to
 correct long reads. The second strategy consists in aligning long reads against themselves.
